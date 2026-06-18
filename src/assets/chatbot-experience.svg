@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" rx="24" fill="#111827"/>
+  <rect x="16" y="16" width="368" height="208" rx="20" fill="url(#grad3)" opacity="0.18"/>
+  <rect x="56" y="68" width="128" height="106" rx="18" fill="#e2e8f0" opacity="0.92"/>
+  <rect x="196" y="82" width="140" height="80" rx="18" fill="#e2e8f0" opacity="0.85"/>
+  <circle cx="116" cy="156" r="10" fill="#7c3aed"/>
+  <circle cx="224" cy="108" r="8" fill="#7c3aed"/>
+  <circle cx="244" cy="132" r="8" fill="#7c3aed"/>
+  <text x="200" y="220" fill="#e2e8f0" font-family="Inter, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Chatbot UI</text>
+</svg>

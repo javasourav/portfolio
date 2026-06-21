@@ -51,7 +51,7 @@ const Home = () => {
             I am a Frontend Developer with 4 years of experience building enterprise applications using React.js,
             Next.js, and TypeScript. I have worked on cybersecurity platforms, HRMS systems, and AI-powered
             solutions with a focus on scalable architecture, performance optimization, and exceptional user
-            experiences.
+            experiences, including backend API design with Node.js, Express, and MongoDB.
           </p>
           <p>
             I enjoy transforming complex business requirements into intuitive, maintainable, and high-performance web
@@ -75,7 +75,7 @@ const Home = () => {
         </div>
         <div className="section-card stack-card">
           <h3>APIs & AI</h3>
-          <p className="stack-list">REST APIs • Azure AI • JWT • Performance Optimization</p>
+          <p className="stack-list">Node.js • Express • MongoDB • REST APIs • Azure AI • JWT • Performance Optimization</p>
         </div>
       </section>
 
@@ -94,8 +94,8 @@ const Home = () => {
             <h3>Enterprise HRMS Platform</h3>
             <p className="subtle">Problem, solution, and impact for HR operations.</p>
             <p>
-              Built scalable React modules with Redux for onboarding, attendance, and leave management. Improved HR
-              workflow efficiency and reduced manual processing.
+              Built scalable React modules with Redux for onboarding, attendance, and leave management, paired with
+              backend APIs built in Node.js, Express, and MongoDB to improve HR workflow efficiency and reduce manual processing.
             </p>
           </article>
           <article className="project-card">
@@ -154,10 +154,11 @@ const Home = () => {
 
         <article className="experience-item">
           <h3>HRMS Platform</h3>
-          <p className="subtle">React.js, Redux, MUI, REST APIs — May 2022 – Feb 2024</p>
+          <p className="subtle">React.js, Redux, MUI, REST APIs, Node.js, Express, MongoDB — May 2022 – Feb 2024</p>
           <ul>
             <li>Built onboarding, attendance tracking, and leave management features for HR workflows.</li>
             <li>Implemented Redux-based state management for scalable frontend data handling.</li>
+            <li>Developed backend APIs with Node.js, Express, and MongoDB to support employee lifecycle operations.</li>
             <li>Delivered dynamic forms with React Hook Form and Formik for consistent validation and user experience.</li>
           </ul>
         </article>

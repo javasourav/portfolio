@@ -10,7 +10,7 @@ const projectList = [
     screenshot: hrmsDashboard,
     problem: 'Organizations needed a centralized HR experience to reduce manual workflows and improve visibility.',
     solution:
-      'Built scalable React modules with Redux state management, dynamic forms, and secure REST APIs for employee lifecycle operations.',
+      'Built scalable React modules with Redux state management, dynamic forms, and secure REST APIs backed by Node.js, Express, and MongoDB for employee lifecycle operations.',
     impact: 'Streamlined HR operations and improved workforce onboarding efficiency across the platform.'
   },
   {
